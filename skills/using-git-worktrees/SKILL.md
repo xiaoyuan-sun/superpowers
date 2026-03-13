@@ -1,6 +1,6 @@
 ---
 name: using-git-worktrees
-description: 在开始需要与当前工作空间隔离的功能开发时，或在执行实现计划之前使用 - 创建隔离的 git 工作树，具有智能目录选择和安全验证
+description: Use when starting feature work that needs isolation from current workspace or before executing implementation plans - creates isolated git worktrees with smart directory selection and safety verification
 ---
 
 # 使用 Git 工作树

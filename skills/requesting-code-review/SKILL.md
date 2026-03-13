@@ -1,6 +1,6 @@
 ---
 name: requesting-code-review
-description: 在完成任务、实现主要功能或合并前使用，验证工作满足需求
+description: Use when completing tasks, implementing major features, or before merging to verify work meets requirements
 ---
 
 # 请求代码审查

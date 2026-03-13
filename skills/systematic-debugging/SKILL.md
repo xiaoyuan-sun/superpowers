@@ -1,6 +1,6 @@
 ---
 name: systematic-debugging
-description: 在遇到任何 bug、测试失败或意外行为时使用，在提出修复之前
+description: Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
 ---
 
 # 系统化调试

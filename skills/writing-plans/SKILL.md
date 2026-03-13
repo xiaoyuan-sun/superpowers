@@ -1,6 +1,6 @@
 ---
 name: writing-plans
-description: 当你有多步任务的规格或需求时使用，在触碰代码之前
+description: Use when you have a spec or requirements for a multi-step task, before touching code
 ---
 
 # 编写计划
